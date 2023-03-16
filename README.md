@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/6575313/225773201-5ef067c5-2bfd-4aa4-9
 ### Postman Collection
 [CodeMonitor Demo.postman_collection.txt](https://github.com/AssaultKoder95/caremonitor-demo/files/10996533/CodeMonitor.Demo.postman_collection.txt)
 
-** Note: Please rename the file extension to `.json` from `.txt` before using it. Github doesn't allow uploading JSON files. **
+**Note: Please rename the file extension to `.json` from `.txt` before using it. Github doesn't allow uploading JSON files.**
 
 ### Future Tasks
 
